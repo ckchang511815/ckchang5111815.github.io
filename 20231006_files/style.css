@@ -1,0 +1,16 @@
+h1{
+    color:red;
+ }
+ /*create a material design-button*/
+ button{
+   background-color: blueviolet;
+   border: none;
+   color: rgb(105, 255, 5);
+   padding: 12px 20px;
+   text-align: center;
+   text-decoration: none;
+   font-size: medium;
+   margin: 5px 2px;
+   cursor: pointer;
+
+ }
